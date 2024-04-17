@@ -1,0 +1,21 @@
+.inpStyel {
+  padding: 5% 17%;
+}
+.btnStyel {
+  padding: 1% 9%;
+}
+.divStyel {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.liStyel {
+  font-size: x-large;
+  background-color: cyan;
+  padding: 0.3em;
+  border-radius: 6px;
+}
+.btndelStyel {
+  background-color: red;
+  color: white;
+}

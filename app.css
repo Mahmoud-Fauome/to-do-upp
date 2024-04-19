@@ -5,11 +5,14 @@
   padding: 1% 9%;
 }
 .divStyel {
+  margin-top: 4em;
   display: flex;
   flex-direction: column;
   align-items: center;
 }
 .liStyel {
+  margin-top: 1em;
+
   font-size: x-large;
   background-color: cyan;
   padding: 0.3em;
